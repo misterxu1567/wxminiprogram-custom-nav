@@ -1,0 +1,16 @@
+pages {
+  position: relative;
+  z-index: 9999998;
+  background: #fff;
+}
+/* 重置button样式 */
+button {
+  background: none;
+}
+button::after {
+  border:none;
+}
+button[disabled] {
+  opacity: 1;
+  background: none;
+}

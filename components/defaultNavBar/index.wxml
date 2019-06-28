@@ -1,0 +1,7 @@
+<!--  自定义版 默认状态栏 -->
+<view class='customNavBar' style='height: {{iphoneX ? height * 2 : height * 2 + 20}}px;'>
+  <view class='navTitle' style='line-height: {{height * 2 + 44}}px;'>{{navbarData.title}}</view>
+    <view class='navCapsule' style='height: {{height * 2 + 44}}px;' catchtouchstart='navigateToFn' wx:if='{{navbarData.showLeftIco}}'>
+      <image src='/images/backIco.png' mode='aspectFill' class='backPre'></image>     
+    </view>
+</view>

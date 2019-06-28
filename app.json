@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/inviterList/inviterList",
+    "pages/inviterDetail/inviterDetail"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "案例",
+    "navigationBarTextStyle": "black",
+    "backgroundColorTop": "#fff",
+    "backgroundColorBottom": "#fff",
+    "navigationStyle": "custom",
+    "enablePullDownRefresh": true
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}

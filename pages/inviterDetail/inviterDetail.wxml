@@ -1,0 +1,8 @@
+<view class='container' style='margin-top: {{iphoneX ? height * 2 : height * 2 + 20}}px;'>
+  <defaultNavBar navbar-data='{{navBarData}}'></defaultNavBar>
+  <view class='empty24'></view>
+  <!-- 内容 -->
+  <view class="detailCont" style="height:{{pageHeight}}px">
+    
+  </view>
+</view>

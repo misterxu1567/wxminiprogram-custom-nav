@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "defaultNavBar": "/components/defaultNavBar/index"
+  },
+  "disableScroll": true
+}

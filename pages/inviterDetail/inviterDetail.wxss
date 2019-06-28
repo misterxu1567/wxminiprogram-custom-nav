@@ -1,0 +1,16 @@
+page{
+  background: #FAFAFA;
+}
+.empty24{
+  height: 24rpx;
+}
+.detailCont{
+  display: block;
+  width: 686rpx;
+  height: auto;
+  background: #fff;
+  padding: 40rpx 32rpx 0;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+

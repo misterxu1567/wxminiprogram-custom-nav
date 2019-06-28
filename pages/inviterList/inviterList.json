@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "customNavBar": "/components/customNavBar/index"
+  }
+}

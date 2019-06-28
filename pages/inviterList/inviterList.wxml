@@ -1,0 +1,6 @@
+<view class='container' style='margin-top: {{iphoneX ? height * 2 : height * 2 + 20}}px;'>
+  <customNavBar navbar-data='{{navBarData}}'></customNavBar>
+  <view class="box">
+    <navigator url="/pages/inviterDetail/inviterDetail" class="toBtn">到详情页</navigator>
+  </view>
+</view>
