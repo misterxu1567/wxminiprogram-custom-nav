@@ -5,6 +5,6 @@
 
 
 其他说明：
-1、在app.json内一定要设置 "navigationStyle": "custom"
-2、一旦设置之后顶部栏将消失，如果想用原生的顶部栏样式，可以使用本项目内部封装的第二个组件 defaultNavBar (仿照原生样式功能书写，添加了定向跳转功能)
+1、在app.json内一定要设置 "navigationStyle": "custom"<br/>
+2、一旦设置之后顶部栏将消失，如果想用原生的顶部栏样式，可以使用本项目内部封装的第二个组件 defaultNavBar (仿照原生样式功能书写，添加了定向跳转功能)<br/>
 3、注意内部计算的顶部栏高度 和 iphoneX 的特殊兼容
